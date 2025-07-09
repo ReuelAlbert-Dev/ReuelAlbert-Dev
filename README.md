@@ -1,4 +1,4 @@
-# Bebong-code
+# Hi, I'm Reuel Albert —curious coder, problem-solver, and tech explorer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
