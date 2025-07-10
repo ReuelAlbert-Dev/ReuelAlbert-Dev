@@ -15,6 +15,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## training and certifications
+
+![Training and Certifications](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7&row=1)
+
 ### ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
