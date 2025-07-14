@@ -4,7 +4,7 @@
 
 ## 🛠️ Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,Go,mongodb,git,github,vscode,linux)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,Rust,mongodb,git,github,vscode,linux)
 
 ## 📊 GitHub Stats
 
