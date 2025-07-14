@@ -14,7 +14,6 @@
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![Training and Certifications](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7&row=1)
 
 ## sponsored by
 
