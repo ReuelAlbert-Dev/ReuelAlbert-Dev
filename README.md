@@ -18,7 +18,6 @@
 ## Trainings
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
-https://learn.microsoft.com/en-us/training/achievements/learn-meclegacy-mie.svg
 
 ## sponsored by
 
