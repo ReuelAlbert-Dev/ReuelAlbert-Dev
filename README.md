@@ -18,6 +18,7 @@
 ## Trainings
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
+https://learn.microsoft.com/en-us/users/reueldiolata-7716/transcript/d4rqkfjzjo495zr
 
 ## sponsored by
 
