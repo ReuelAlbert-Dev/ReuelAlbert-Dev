@@ -15,6 +15,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Trainings
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=138682" style='border:none;'></iframe>
+
 ## sponsored by
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Bebong-code)
