@@ -28,6 +28,9 @@
 <img width="60" height="60" alt="MicrosoftAISkillsFestGWRAttemptBadge full" src="https://github.com/user-attachments/assets/3ad15853-3f84-421a-8560-9f2140391378" />
 <img width="60" height="60" alt="Microsoft-Learner-Badge-Guinness-World-Record-Holder" src="https://github.com/user-attachments/assets/7073c3f7-bfe9-4485-a87c-7588934fcafa" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d0dd0e01-4b15-429a-80ca-6a91030aed92" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/20c4b6ef-5b7c-4931-8839-0734dae8175e" />
+<img width="60" height="60" alt="GCC_badge_UX_1000x1000" src="https://github.com/user-attachments/assets/9d0efdfa-8d3e-4da4-a723-680b98c60a05" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/58aae42b-652e-42b0-920a-cd2762be61a8" />
 
 
 ## sponsored by
