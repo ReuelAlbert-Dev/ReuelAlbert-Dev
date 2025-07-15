@@ -18,7 +18,8 @@
 ## Trainings
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
-<img src="https://www.freecodecamp.org/fcc904886cf-664f-41a0-a5aa-9da24129f11b" />
+
+<img width="600" height="600" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" />
 
 ## sponsored by
 
