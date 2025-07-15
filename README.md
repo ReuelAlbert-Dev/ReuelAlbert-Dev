@@ -18,6 +18,7 @@
 ## Trainings
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
+https://www.credly.com/users/reuel-albert-diolata.400fbf22
 
 ## sponsored by
 
