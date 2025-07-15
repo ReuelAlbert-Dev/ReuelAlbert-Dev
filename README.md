@@ -21,6 +21,11 @@
 <img width="60" height="60" alt="python_essentials_1_50" src="https://github.com/user-attachments/assets/82ae7267-beea-4692-b1bf-c0e3c2bd01f4" />
 <img width="60" height="60" alt="2fa6b469-476b-4bfb-a433-63a3d4e5b039" src="https://github.com/user-attachments/assets/fdc15351-b745-46f9-abe7-076e333e30cc" />
 <img width="60" height="60" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" />
+<img width="60" height="60" alt="introduction_to_cybersecurity_16" src="https://github.com/user-attachments/assets/a50db177-0412-4abf-8bea-7d1a0698f569" />
+<img width="60" height="60" alt="cybersecurity_essentials_17" src="https://github.com/user-attachments/assets/da7067da-1e85-4553-9925-35ea0cac4eae" />
+
+
+
 
 ## sponsored by
 
