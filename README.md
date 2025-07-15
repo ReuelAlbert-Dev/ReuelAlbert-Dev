@@ -25,7 +25,7 @@
 <img width="60" height="60" alt="cybersecurity_essentials_17" src="https://github.com/user-attachments/assets/da7067da-1e85-4553-9925-35ea0cac4eae" />
 <img width="60" height="60" alt="0988c7d8-59f9-4abf-b8c6-4f188c241255" src="https://github.com/user-attachments/assets/e3618a85-ad3c-4b44-bb36-b57029dc0563" />
 <img width="60" height="60" alt="introduction_to_packet_tracer_38" src="https://github.com/user-attachments/assets/a0501b98-f563-43cb-9618-967b2849936e" />
-<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="" aria-hidden="true" loading="lazy" draggable="false">
+
 
 ## sponsored by
 
