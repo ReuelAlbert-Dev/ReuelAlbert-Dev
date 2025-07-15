@@ -18,7 +18,7 @@
 ## Trainings
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
-https://www.credly.com/users/reuel-albert-diolata.400fbf22
+<img src="https://www.freecodecamp.org/fcc904886cf-664f-41a0-a5aa-9da24129f11b" />
 
 ## sponsored by
 
