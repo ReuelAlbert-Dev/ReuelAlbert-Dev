@@ -25,7 +25,7 @@
 <img width="60" height="60" alt="0988c7d8-59f9-4abf-b8c6-4f188c241255" src="https://github.com/user-attachments/assets/e3618a85-ad3c-4b44-bb36-b57029dc0563" />
 <img width="60" height="60" alt="introduction_to_packet_tracer_38" src="https://github.com/user-attachments/assets/a0501b98-f563-43cb-9618-967b2849936e" />
 <img width="60" height="60" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" />
-<img width="60" height="60" alt="download-DESKTOP-APFD4DT" src="https://github.com/user-attachments/assets/a4dc8df5-6f61-4de9-b626-1542ddb6357f" />
+<img width="70" height="70" alt="download-DESKTOP-APFD4DT" src="https://github.com/user-attachments/assets/a4dc8df5-6f61-4de9-b626-1542ddb6357f" />
 <img width="60" height="60" alt="MicrosoftAISkillsFestGWRAttemptBadge full" src="https://github.com/user-attachments/assets/3ad15853-3f84-421a-8560-9f2140391378" />
 <img width="60" height="60" alt="Microsoft-Learner-Badge-Guinness-World-Record-Holder" src="https://github.com/user-attachments/assets/7073c3f7-bfe9-4485-a87c-7588934fcafa" />
 
