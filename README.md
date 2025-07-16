@@ -9,11 +9,11 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReuelAlbert-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ReuelAlbet-Dev&theme=dark&hide_border=false)
+![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ReuelAlbert-Dev&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bebong-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ReuelAlbert-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Trainings
 
@@ -26,11 +26,11 @@
 
 ## Donate
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Bebong-code)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Bebong-code)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ReuelAlbertDev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ReuelAlbert-Dev)
 
-[![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/Bebong-code)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Bebong-code)
+[![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ReuelAlbert-Dev)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ReuelAlbert-Dev)
 
 ### Contact
 
