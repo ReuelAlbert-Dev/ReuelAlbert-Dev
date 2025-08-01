@@ -1,4 +1,4 @@
-![Header](<img width="661" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/57cc6cfe-f938-4e24-9098-e35183d3aba7" />)
+![Header](./<img width="661" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/57cc6cfe-f938-4e24-9098-e35183d3aba7"/>)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
