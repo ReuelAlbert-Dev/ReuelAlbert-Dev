@@ -15,7 +15,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ReuelAlbert-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Training and Badges' src='https://img.shields.io/badge/Training_and Badges-100000?style=for-the-badge&logo=Training and Badges&logoColor=white&labelColor=C11E1F&color=CA4141'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Training Badges' src='https://img.shields.io/badge/Training_and Badges-100000?style=for-the-badge&logo=Training and Badges&logoColor=white&labelColor=C11E1F&color=CA4141'/></a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
 
