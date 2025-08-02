@@ -1,5 +1,6 @@
 <img width="883" height="300" alt="image" src="https://github.com/user-attachments/assets/9faf3c2b-c232-47c6-af6d-897e51687d19" />
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🛠️ Languages and Tools
@@ -11,12 +12,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReuelAlbert-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ReuelAlbert-Dev&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ReuelAlbert-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ## Training Badges
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3bong.png" alt="Your Image Badge" />
@@ -25,7 +20,6 @@
 
 <img width="60" height="60" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" /><img width="60" height="60" alt="MicrosoftAISkillsFestGWRAttemptBadge full" src="https://github.com/user-attachments/assets/3ad15853-3f84-421a-8560-9f2140391378" /><img width="60" height="60" alt="Microsoft-Learner-Badge-Guinness-World-Record-Holder" src="https://github.com/user-attachments/assets/7073c3f7-bfe9-4485-a87c-7588934fcafa" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d0dd0e01-4b15-429a-80ca-6a91030aed92" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/20c4b6ef-5b7c-4931-8839-0734dae8175e" /><img width="60" height="60" alt="GCC_badge_UX_1000x1000" src="https://github.com/user-attachments/assets/9d0efdfa-8d3e-4da4-a723-680b98c60a05" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/58aae42b-652e-42b0-920a-cd2762be61a8" />
-
 
 ### Support
 
