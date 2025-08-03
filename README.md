@@ -1,16 +1,20 @@
-<img width="883" height="300" alt="image" src="https://github.com/user-attachments/assets/9faf3c2b-c232-47c6-af6d-897e51687d19" />
+
+<img width="783" height="650" alt="image" src="https://github.com/user-attachments/assets/9faf3c2b-c232-47c6-af6d-897e51687d19" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
+
 ## 🛠️ Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,nodejs,express,python,go,rust,mongodb,git,github,vscode,docker,linux,bash,md,powershell,kali,ubuntu,)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,python,go,kotlin,java,c,cpp,cs,rust) ![tools](https://skillicons.dev/icons?i=mongodb,postgres,git,github,aws,linux,powershell,bash,markdown,vscode,ubuntu,kali)
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReuelAlbert-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ReuelAlbert-Dev&theme=dark&hide_border=false)
+
 
 ## Training Badges
 
