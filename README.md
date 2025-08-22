@@ -1,7 +1,4 @@
 
-<img width="783" height="650" alt="image" src="https://github.com/user-attachments/assets/9faf3c2b-c232-47c6-af6d-897e51687d19" />
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
 
