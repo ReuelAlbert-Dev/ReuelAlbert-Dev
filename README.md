@@ -20,6 +20,8 @@
 <img width="60" height="60" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" /><img width="60" height="60" alt="MicrosoftAISkillsFestGWRAttemptBadge full" src="https://github.com/user-attachments/assets/3ad15853-3f84-421a-8560-9f2140391378" /><img width="60" height="60" alt="Microsoft-Learner-Badge-Guinness-World-Record-Holder" src="https://github.com/user-attachments/assets/7073c3f7-bfe9-4485-a87c-7588934fcafa" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d0dd0e01-4b15-429a-80ca-6a91030aed92" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/20c4b6ef-5b7c-4931-8839-0734dae8175e" /><img width="60" height="60" alt="GCC_badge_UX_1000x1000" src="https://github.com/user-attachments/assets/9d0efdfa-8d3e-4da4-a723-680b98c60a05" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/58aae42b-652e-42b0-920a-cd2762be61a8" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dc166ed4-68ce-4a22-92da-16ea3b2376ce" />
 
+https://learn.microsoft.com/en-us/users/reueldiolata-7716/transcript/d4rqkfjzjo495zr?tab=tab-created
+
 
 ### Support/Donation
 
