@@ -31,7 +31,7 @@
 
 ### Connect with me
 
-Outlook: Reuel Albert Diolata Email: rardiolata@outlook.com
+Email: rardiolata@outlook.com
 
 ### ✍️ Random Dev Quote
 
