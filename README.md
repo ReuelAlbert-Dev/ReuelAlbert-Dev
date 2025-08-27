@@ -29,9 +29,9 @@
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ReuelAlbert-Dev)
 
 
-### Contact
+### Connect with me
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)
+Outlook: Reuel Albert Diolata Email: rardiolata@outlook.com
 
 ### ✍️ Random Dev Quote
 
