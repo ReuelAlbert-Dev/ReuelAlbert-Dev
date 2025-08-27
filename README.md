@@ -29,7 +29,7 @@
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ReuelAlbert-Dev)
 
 
-### Connect with me
+### Contact me at:
 
 Email: rardiolata@outlook.com
 
