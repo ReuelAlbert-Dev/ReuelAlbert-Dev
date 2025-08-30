@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Reuel Albert 
-#### 
 
+#### —curious coder, problem-solver, and tech explorer
+
+____________
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
 
