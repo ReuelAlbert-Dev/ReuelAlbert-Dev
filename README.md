@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Reuel Albert 
 #### —curious coder, problem-solver, and tech explorer
 
-🌱 I’m currently learning AI/ML and Python
 ____________
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
 
