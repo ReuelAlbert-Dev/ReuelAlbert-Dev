@@ -13,8 +13,8 @@ ____________
 
 ## 📊 GitHub Stats
 
-![github-stats]https://github-stats-alpha.vercel.app/api?username=ReuelAlbert-Dev&cc=000&tc=fff&ic=fff&bc=000
 
+<img src="https://readme-typing-stats.vercel.app/typing?user=ReuelAlbert-Dev&type=commit&color=%23bec9d5" alt="ReuelAlbert-Dev's GitHub commit" />
 
 ## Training Badges
 
