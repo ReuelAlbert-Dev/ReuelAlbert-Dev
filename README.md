@@ -13,8 +13,8 @@ ____________
 
 ## 📊 GitHub Stats
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ReuelAlbert-Dev?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<img src="https://readme-typing-stats.vercel.app/typing?user=ReuelAlbert-Dev&type=commit&color=%23bec9d5" alt="ReuelAlbert-Dev's GitHub commit" />
 
 ## Training Badges
 
