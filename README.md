@@ -7,7 +7,8 @@ ____________
 
 ## 🛠️ Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,python,go,kotlin,java,c,cpp,cs,rust) ![tools](https://skillicons.dev/icons?i=mongodb,postgres,git,github,aws,linux,powershell,bash,markdown,vscode,ubuntu,kali)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,python,go,kotlin,java,c,cpp,cs,rust) 
+![tools](https://skillicons.dev/icons?i=mongodb,postgres,git,github,aws,linux,powershell,bash,markdown,vscode,ubuntu,kali)
 
 
 ## 📊 GitHub Stats
