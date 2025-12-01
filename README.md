@@ -13,8 +13,10 @@ ____________
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ReuelAlbert-Dev?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
-
+![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev)
+![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=languages)
+![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=contributions)
+![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=top-repos)
 
 ## Training Badges
 
