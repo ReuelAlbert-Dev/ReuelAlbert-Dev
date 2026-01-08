@@ -1,47 +1,154 @@
-### Hi there 👋, my name is Reuel Albert 
-#### —curious coder, problem-solver, and tech explorer
+# Hi there, I'm Reuel Albert ! 👋
 
-____________
-![Profile Views](https://komarev.com/ghpvc/?username=Bebong-code&label=Profile%20Views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/66895085?v=4" alt="ReuelAlbert-Dev" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
+</div>
+
+## 🚀 About Me
+
+> Hi, I'm Reuel Albert —curious coder, problem-solver, and tech explorer
+
+- 🔭 I'm currently working on **exciting projects**
+- 🌱 I'm always **learning and growing** in technology
+- 👯 I'm looking to **collaborate** on innovative ideas
+- 💬 Ask me about **Rust**
+- 📫 How to reach me: **[@ReuelAlbert-Dev](https://github.com/ReuelAlbert-Dev)**
+- ⚡ Fun fact: **I have 31 public repositories with 3 total stars!**
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReuelAlbert-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReuelAlbert-Dev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReuelAlbert-Dev&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReuelAlbert-Dev&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 Featured Projects
+
+### 🎯 [fastapi](https://github.com/ReuelAlbert-Dev/fastapi)
+
+> FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/fastapi?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/fastapi?style=social) 
 
 
-## 🛠️ Languages and Tools
-
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,python,go,kotlin,java,c,cpp,cs,rust) 
-![tools](https://skillicons.dev/icons?i=mongodb,postgres,git,github,aws,linux,powershell,bash,markdown,vscode,ubuntu,kali)
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=languages)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=ReuelAlbert-Dev&type=top-repos)
-
-## Training Badges
-
-<img width="60" height="60" alt="python_essentials_1_50" src="https://github.com/user-attachments/assets/82ae7267-beea-4692-b1bf-c0e3c2bd01f4" /><img width="60" height="60" alt="2fa6b469-476b-4bfb-a433-63a3d4e5b039" src="https://github.com/user-attachments/assets/fdc15351-b745-46f9-abe7-076e333e30cc" /><img width="60" height="60" alt="cybersecurity_essentials_17" src="https://github.com/user-attachments/assets/da7067da-1e85-4553-9925-35ea0cac4eae" /><img width="60" height="60" alt="0988c7d8-59f9-4abf-b8c6-4f188c241255" src="https://github.com/user-attachments/assets/e3618a85-ad3c-4b44-bb36-b57029dc0563" /><img width="60" height="60" alt="introduction_to_packet_tracer_38" src="https://github.com/user-attachments/assets/a0501b98-f563-43cb-9618-967b2849936e" />
-
-<img width="60" height="60" alt="aff48509-c22b-4945-98a0-f2185fb62998" src="https://github.com/user-attachments/assets/9786907b-548f-40c8-a943-3b8abebb717c" /><img width="60" height="60" alt="MicrosoftAISkillsFestGWRAttemptBadge full" src="https://github.com/user-attachments/assets/3ad15853-3f84-421a-8560-9f2140391378" /><img width="60" height="60" alt="Microsoft-Learner-Badge-Guinness-World-Record-Holder" src="https://github.com/user-attachments/assets/7073c3f7-bfe9-4485-a87c-7588934fcafa" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d0dd0e01-4b15-429a-80ca-6a91030aed92" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/20c4b6ef-5b7c-4931-8839-0734dae8175e" /><img width="60" height="60" alt="GCC_badge_UX_1000x1000" src="https://github.com/user-attachments/assets/9d0efdfa-8d3e-4da4-a723-680b98c60a05" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/58aae42b-652e-42b0-920a-cd2762be61a8" /><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dc166ed4-68ce-4a22-92da-16ea3b2376ce" />
-
-
-### Support/Donation
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ReuelAlbertDev)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ReuelAlbert-Dev)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ReuelAlbert-Dev)
-[![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ReuelAlbert-Dev)
-
-
-### Contact me at:
-
-Email: rardiolata@outlook.com
-
-### ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 [supabase](https://github.com/ReuelAlbert-Dev/supabase)
+
+> The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/supabase?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/supabase?style=social) 
+
+
+</div>
+
+---
+
+### 🎯 [julia](https://github.com/ReuelAlbert-Dev/julia)
+
+> The Julia Programming Language
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/julia?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/julia?style=social) 
+
+
+</div>
+
+---
+
+### 🎯 [codex](https://github.com/ReuelAlbert-Dev/codex)
+
+> Lightweight coding agent that runs in your terminal
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/codex?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/codex?style=social) 
+![Language](https://img.shields.io/badge/Language-Rust-000000?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+### 🎯 [aspire](https://github.com/ReuelAlbert-Dev/aspire)
+
+> Tools, templates, and packages to accelerate building observable, production-ready apps
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/aspire?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/aspire?style=social) 
+
+
+</div>
+
+---
+
+### 🎯 [full-stack-fastapi-template](https://github.com/ReuelAlbert-Dev/full-stack-fastapi-template)
+
+> Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+
+<div align="left">
+  
+![Stars](https://img.shields.io/github/stars/ReuelAlbert-Dev/full-stack-fastapi-template?style=social) 
+![Forks](https://img.shields.io/github/forks/ReuelAlbert-Dev/full-stack-fastapi-template?style=social) 
+
+
+</div>
+
+## 📈 Profile Statistics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ReuelAlbert-Dev&label=Profile%20views&color=000000&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ReuelAlbert-Dev?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ReuelAlbert-Dev?label=Stars&style=social)
+
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReuelAlbert-Dev)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ffffff)
+
+**⭐ Star some repositories if you find them interesting!**
+
+</div>
